@@ -67,7 +67,7 @@ const Chat = () => {
                 <div className='m-5 flex flex-row gap-1'>
                     <RiChatVoiceFill className='h-10 text-4xl' />
                     <h2 className='text-3xl'>ChatGPT-4.AI</h2>
-                    <a href="https://github.com/namankr111/ai-chatbot" className='ml-auto text-3xl flex justify-end items-center' target='_blank' rel='noreferrer'>
+                    <a href="https://github.com/namank111/ChatBot" className='ml-auto text-3xl flex justify-end items-center' target='_blank' rel='noreferrer'>
 
                         <FaGithubSquare />
                     </a>
