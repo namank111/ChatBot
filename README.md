@@ -1,5 +1,6 @@
 # ChatGPT-4 AI Chatbot
-["Screenshot 2024-02-29 171713.png"](https://github.com/namank111/ChatBot/blob/main/Screenshot%202024-02-29%20171713.png)
+![Screenshot 2024-02-29 171713](https://github.com/namank111/ChatBot/assets/113027974/3a5315b6-9b00-4a18-93d9-d433b0c27abe)
+
 # Here is the [LIVE Deployed Link](https://cwbbot.vercel.app/) of the AI Chatbot
 
 ## Built with...
