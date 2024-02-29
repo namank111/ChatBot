@@ -1,5 +1,5 @@
 # ChatGPT-4 AI Chatbot
-"C:\Users\NAMAN KUMAR\Downloads\Screenshot 2024-02-29 171713.png"
+"Screenshot 2024-02-29 171713.png"
 
 # Here is the [LIVE Deployed Link](https://cwbbot.vercel.app/) of the AI Chatbot
 
